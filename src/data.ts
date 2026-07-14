@@ -14,7 +14,7 @@ import {
 } from 'lucide-react';
 
 export const contactInfo = {
-  whatsapp: "03260382258",
+  whatsapp: "+923260382258",
   email: "m.abdullah.sep@gmail.com",
   address: "Verix Digital Expert Headquarters",
   facebook: "#",
