@@ -16,8 +16,8 @@ import {
 export const contactInfo = {
   whatsapp: "+923260382258",
   email: "m.abdullah.sep@gmail.com",
-  address: "Verix Digital Expert Headquarters",
-  facebook: "#",
+  address: "Renala Khurd - Okara",
+  facebook: "https://www.facebook.com/share/1FZDj31UQP/",
   instagram: "#",
   linkedin: "#",
   youtube: "#"
