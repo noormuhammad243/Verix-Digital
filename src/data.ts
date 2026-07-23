@@ -121,7 +121,7 @@ export const caseStudies = [
     challenge: 'No social media engagement and low foot traffic.', 
     solution: 'Vibrant Canva designs and strategic social media management.', 
     result: '300% Engagement Boost', 
-    image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=800',
+    image: 'https://drive.google.com/file/d/1jFS97IEwf_RJ0i0GNgWunTprLqx0HnJC/view?usp=sharing',
     tech: ['Social Media Design', 'Content Writing']
   },
   { 
