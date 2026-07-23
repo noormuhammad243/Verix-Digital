@@ -101,17 +101,17 @@ export const caseStudies = [
     challenge: 'Low conversion rates and outdated brand identity.', 
     solution: 'Complete rebranding, modern social media strategy, and targeted content.', 
     result: '+150% Increase in Sales', 
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800',
+    image: 'https://scontent.flyp20-1.fna.fbcdn.net/v/t39.30808-6/753652122_122114109405361594_7993817140094255837_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x575&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHqldYXf6svhlbKjQM3GQHSvJ8bX2toJmC8nxtfa2gmYOFNn-HKQgC8K1WhqIDsnJSjn61D-oNoIwJzKfhuenJx&_nc_ohc=LatJ2wDMgG0Q7kNvwHurjsY&_nc_oc=AdrnLqiy7H5gsFtxGI52iIuI303UEYiju3VAK22bPAtF7faOnv4-pCP5ER-EsNMTVCTcQ54rxkjtbd2TTw2fKyPK&_nc_zt=23&_nc_ht=scontent.flyp20-1.fna&_nc_gid=T2syjdvvEdmqqQVvjmxgfA&_nc_ss=7b2a8&oh=00_AQCRxtb29yHGlMvGpyLlCb0pf61So6j0ONoinsOVwSRxQg&oe=6A67BE41',
     tech: ['Social Media Design', 'Logo Design', 'Content Writing']
   },
   { 
     id: 2, 
-    title: 'Tech Startup Launch', 
-    industry: 'Software', 
+    title: 'Fashion', 
+    industry: 'Fashion', 
     challenge: 'Zero market presence and brand awareness.', 
     solution: 'Engaging video promos, SEO-driven content, and dynamic logo design.', 
     result: '10K+ Leads in 1st Month', 
-    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800',
+    image: 'https://scontent.flyp20-1.fna.fbcdn.net/v/t39.30808-6/753275753_122114109021361594_5838328615513296659_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x595&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEMnQK4JMLN0xsy0eYReplgmK-YZbpt4N6Yr5hlum3g3lVh26IcAwIEN30DH-sa_jg_Be0PF90kYnGruJybZu58&_nc_ohc=IcIzU_DcekcQ7kNvwGB9XkK&_nc_oc=AdrzTzl1tycPLfLHGgxUsBmj_seUqXBi5GhpTUWJpHdAf-bLGFd5g1fg1BQ3_Q2x2sN6cNWae3Hx_iCCb-0frJoe&_nc_zt=23&_nc_ht=scontent.flyp20-1.fna&_nc_gid=zIm33yEWbR1uxbe0hk7g3g&_nc_ss=7b2a8&oh=00_AQDQNakwkLzY7Wro5_j4rC8TptJWcBHxnoOOnSD-BMAr1Q&oe=6A67C647',
     tech: ['Video Editing', 'Canva Design', 'Keyword Research']
   },
   { 
