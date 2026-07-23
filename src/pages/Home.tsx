@@ -76,7 +76,7 @@ export default function Home() {
             >
               <div className="relative rounded-3xl overflow-hidden glass-card p-4 aspect-square max-w-lg mx-auto">
                 <img 
-                  src="https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=800" 
+                  src="https://scontent.flyp20-1.fna.fbcdn.net/v/t39.30808-6/751371923_122114107413361594_4904143319445526060_n.jpg?stp=dst-jpg_tt6&cstp=mx1068x955&ctp=s565x565&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHCneJFR2iZACtIscKaCMnDBVx8n_0szKkFXHyf_SzMqRC4UaSCxHq1Ye0yQVdRZjOCfWtxXN2byxR6WmX8acXF&_nc_ohc=65tWBWyYcwQQ7kNvwEniFsU&_nc_oc=AdrrZkSJ6Sc0qvmRlItAYV8bGVXYosUVy9L5cPqKQD4rFZoNCB8jglMaQR1PBChodY49FsrscwnsbhBLCV_ypW2z&_nc_zt=23&_nc_ht=scontent.flyp20-1.fna&_nc_gid=FxXe_pE0G3lJhqmnEc5Geg&_nc_ss=7b2a8&oh=00_AQDu2BJxBMQbVrk43EaVWZMyIfzUpF7rkKU5ok93XXlOKA&oe=6A67BFCA" 
                   alt="Digital Marketing Team" 
                   className="rounded-2xl w-full h-full object-cover"
                 />
